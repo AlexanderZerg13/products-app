@@ -3,4 +3,5 @@ export interface ProductType {
   title: string
   price: number
   images: string[]
+  description: string
 }
